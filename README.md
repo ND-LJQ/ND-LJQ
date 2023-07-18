@@ -1,6 +1,6 @@
 ## 关于我 Who am I
 
-<img src="img/head.jpg" style="height: 50px; width: 50px; border-radius: 50%; margin-bottom: 15px" />
+<img src="http://q1.qlogo.cn/g?b=qq&nk=2206101625&s=100" style="height: 50px; width: 50px; border-radius: 50%; margin-bottom: 15px" />
 
 嗨喽!欢迎来到我的**Github**, 我是<b style="color: #42d2ca"> **劉三刀** </b>, </br>
 在大学中混吃等死`3`年,今年大四`在校废柴`一枚😅，</br>
