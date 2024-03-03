@@ -18,65 +18,8 @@
 
 
 
-### ⏩️正在进行的工程
+### ⏩️我的Github
 
-[**hunauforum(毕设项目分布式校园论坛后端部分-开发中🔥)**](https://github.com/ND-LJQ/hunauforum)
-
-
-
-![](https://img.shields.io/badge/Java17-red.svg?logo=java) ![](https://img.shields.io/badge/Spring_Cloud-2021.0.3-blue.svg?logo=spring) ![](https://img.shields.io/badge/Spring_Boot-2.7.2-green.svg?logo=spring) ![](https://img.shields.io/badge/MyBatis-yellow.svg?logo=mybatis) ![](https://img.shields.io/badge/MySQL-8.0-blue.svg?logo=mysql&logoColor=white)  ![](https://img.shields.io/badge/Maven-#C71A36.svg?logo=apachemaven)  ![](https://img.shields.io/badge/IDEA-#000000.svg?logo=intellijidea)
-
-![Star Number](https://img.shields.io/github/stars/ND-LJQ/hunauforum?logo=github) ![Commit Number](https://img.shields.io/github/commit-activity/m/ND-LJQ/hunauforum) ![Last Commit](https://img.shields.io/github/last-commit/ND-LJQ/hunauforum) ![download](https://img.shields.io/github/downloads/ND-LJQ/hunauforum/total) ![views](https://img.shields.io/github/watchers/ND-LJQ/hunauforum)
-![views](https://img.shields.io/github/contributors/ND-LJQ/hunauforum)
-
-
-
-
-
-[**hunauforum(毕设项目分布式校园论坛前端部分-开发中🔥)**](https://gitee.com/liu-jq/hunauforum)
-
-
-
-![Vue](https://img.shields.io/badge/-Vue3-34495e?logo=vue.js) ![Uniapp](https://img.shields.io/badge/Uniapp-blue.svg?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg?logo=javascript&logoColor=white&style=flat-square) ![SCSS](https://img.shields.io/badge/SCSS-CC6699.svg?logo=sass&logoColor=white&style=flat-square) ![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)  ![Vite](https://img.shields.io/badge/-VsCode-007ACC?logo=visualstudiocode&logoColor=white)
-
-![Star Number](https://img.shields.io/github/stars/ND-LJQ/hunauforum-web?logo=github) ![Commit Number](https://img.shields.io/github/commit-activity/m/ND-LJQ/hunauforum-web) ![Last Commit](https://img.shields.io/github/last-commit/ND-LJQ/hunauforum-web) ![download](https://img.shields.io/github/downloads/ND-LJQ/hunauforum-web/total) ![views](https://img.shields.io/github/watchers/ND-LJQ/hunauforum-web)
-![views](https://img.shields.io/github/contributors/ND-LJQ/hunauforum-web)
-
-
-
-
-
-[**Lvext-UI(一个 vue3+ts的ui库-开发中🔥)**](https://github.com/ND-LJQ/lvext-ui)
-
-
-
-![Vue](https://img.shields.io/badge/-Vue3-34495e?logo=vue.js) ![ts](https://img.shields.io/badge/typescript-3178C6.svg?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg?logo=javascript&logoColor=white&style=flat-square) ![SCSS](https://img.shields.io/badge/css3-1572B6.svg?logo=css3&logoColor=white&style=flat-square) ![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)  ![Vite](https://img.shields.io/badge/-VsCode-007ACC?logo=visualstudiocode&logoColor=white)
-
-![Star Number](https://img.shields.io/github/stars/ND-LJQ/lvext-ui?logo=github) ![Commit Number](https://img.shields.io/github/commit-activity/m/ND-LJQ/lvext-ui) ![Last Commit](https://img.shields.io/github/last-commit/ND-LJQ/lvext-ui) ![download](https://img.shields.io/github/downloads/ND-LJQ/lvext-ui/total) ![views](https://img.shields.io/github/watchers/ND-LJQ/lvext-ui) ![views](https://img.shields.io/github/contributors/ND-LJQ/lvext-ui)
-
-![npm](https://img.shields.io/npm/v/lvext-ui?logo=npm) ![npm](https://img.shields.io/npm/dt/lvext-ui?logo=npm) ![npm](https://img.shields.io/npm/dm/lvext-ui?logo=npm) 
-
-
-
-
-
-### ✅已完成的工程
-
-[**medical-brain-web(医学大脑前端部分)**](https://github.com/ND-LJQ/medical-brain-web)
-
-
-
-![Vue](https://img.shields.io/badge/-Vue3-34495e?logo=vue.js) ![Uniapp](https://img.shields.io/badge/element-plus-blue.svg?style=flat-square&logo=e) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg?logo=javascript&logoColor=white&style=flat-square) ![SCSS](https://img.shields.io/badge/SCSS-CC6699.svg?logo=sass&logoColor=white&style=flat-square) ![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white) ![Vite](https://img.shields.io/badge/-VsCode-007ACC?logo=visualstudiocode&logoColor=white)
-
-![Star Number](https://img.shields.io/github/stars/ND-LJQ/medical-brain-web?logo=github) ![Commit Number](https://img.shields.io/github/commit-activity/m/ND-LJQ/medical-brain-web) ![Last Commit](https://img.shields.io/github/last-commit/ND-LJQ/medical-brain-web) ![download](https://img.shields.io/github/downloads/ND-LJQ/medical-brain-web/total) ![views](https://img.shields.io/github/watchers/ND-LJQ/medical-brain-web)
-![views](https://img.shields.io/github/contributors/ND-LJQ/medical-brain-web)
-
-
-
-
-
-
-</br>
 
 
 <div align="center" style="display:flex;width:100%">
