@@ -2,9 +2,7 @@
 
 <img src="http://q1.qlogo.cn/g?b=qq&nk=2206101625&s=100" style="height: 50px; width: 50px; border-radius: 50%; margin-bottom: 15px" />
 
-嗨喽!欢迎来到我的**Github**, 我是<b style="color: #42d2ca"> **劉三刀** </b>, </br>
-在大学中混吃等死`3`年,今年大四`在校废柴`一枚😅，</br>
-正在考研,技术也不想完全扔掉🤪。</br>
+嗨喽!欢迎来到我的**Github**
 `前端`、`后端`、`运维`都有所涉猎🤗</br>
 希望我的博客和项目能够对你有所帮助😙</br>
 如果有问题,请不吝赐教,不胜感激😘
